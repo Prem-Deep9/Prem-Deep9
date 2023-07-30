@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Prem Deep
-💻 I currently work [VEC-University of Liverpool](https://www.virtualengineeringcentre.com/) as a Data Scientist.\
+💻 I currently work at [VEC-University of Liverpool](https://www.virtualengineeringcentre.com/) as a Data Scientist.\
 🌱 I am here to learn, experiment and create on AI and Data Science projects.
 📫 Reach me at mareedupremdeep@gmail.com
 
